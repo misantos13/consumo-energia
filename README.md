@@ -16,6 +16,7 @@ Esse projeto tem como objetivo calcular e informar o consumo de energia de um **
 **Objetivo da atividade:**
 * Publicação do código-fonte através do Git e GitHub
 * Prática da Lógica de Programação
+* Desenvolver raciocínio lógico utilizando estrutura de decisão "Se"
 
 ---
 
